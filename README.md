@@ -5,7 +5,7 @@ This was built to learn selenium. It someone wants to make this better by buildi
 ```
 # config.rb
 CM_USERNAME = 'person_name'
-CM_PASSWORD = 'every_time_you_commit_a_key_and_orphan_puppy_gets_kicked_into_the_sun'
+CM_PASSWORD = 'every_time_you_commit_a_key_an_orphan_puppy_gets_kicked_into_the_sun'
 
 ```
 ```
